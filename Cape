@@ -16,7 +16,7 @@ if lplr.Character.Humanoid.RigType == Enum.HumanoidRigType.R15 then
   CapeP.FormFactor = "Custom"
   CapeP.Size = Vector3.new(0.2,0.2,0.2)
   local decal = Instance.new("Decal", CapeP)
-  decal.Texture = "rbxthumb://type=Asset&id=14151836490&w=420&h=420" -- support gradient colo
+  decal.Texture = "rbxthumb://type=Asset&id=14153105518&w=420&h=420" 
   decal.Face = "Back"
   local msh = Instance.new("BlockMesh", CapeP)
   msh.Scale = Vector3.new(9,17.5,0.5)
